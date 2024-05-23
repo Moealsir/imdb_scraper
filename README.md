@@ -1,5 +1,7 @@
 # IMDb Scraper
-![Extracted Data](./src/extracted_data.png)
+<div style="text-align:center;">
+  <img src="https://github.com/Moealsir/imdb_scraper/blob/main/src/extracted%20data.png" alt="Extracted Data" width="500" height="500">
+</div>
 This project is aimed at scraping the IMDb Top 250 movies list, extracting various details about each movie, and exporting the data into different formats such as JSON, Excel, XML, CSV, and SQLite database.
 
 ## Contents
