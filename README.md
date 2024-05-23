@@ -1,8 +1,9 @@
 # IMDb Scraper
+This project is aimed at scraping the IMDb Top 250 movies list, extracting various details about each movie, and exporting the data into different formats such as JSON, Excel, XML, CSV, and SQLite database. Additionally, it is automated to run daily for scheduled updates.
+
 <div style="text-align:center;">
-  <img src="https://github.com/Moealsir/imdb_scraper/blob/main/src/extracted%20data.png" alt="Extracted Data" width="500" height="500">
+  <img src="https://github.com/Moealsir/imdb_scraper/blob/main/src/extracted%20data.png" alt="Extracted Data" width="1000" height="700">
 </div>
-This project is aimed at scraping the IMDb Top 250 movies list, extracting various details about each movie, and exporting the data into different formats such as JSON, Excel, XML, CSV, and SQLite database.
 
 ## Contents
 
@@ -59,4 +60,4 @@ To run the automation script:
 <br>
 <br>
 
-### ! SCRIPT IS NOT FREE
+### ! CODE IS NOT FREE
